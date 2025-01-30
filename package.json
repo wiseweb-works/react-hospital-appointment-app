@@ -3,11 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "prune": "^0.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0",
     "react-scripts": "5.0.1",
     "uuid": "^11.0.5"
+  },
+  "resolutions": {
+    "nth-check": "^2.1.1",
+    "postcss": "^8.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
